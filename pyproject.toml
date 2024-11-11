@@ -1,3 +1,0 @@
-[build-system]
-requires = ["scipy", "pandas", "numpy", "plotly", "statsmodels", "scikit-learn", "mord", "streamlit"]
-build-backend = "setuptools.build_meta"
