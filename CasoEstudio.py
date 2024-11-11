@@ -13,7 +13,6 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split, KFold
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler, PolynomialFeatures
-import mord as m
 import statsmodels.api as sm
 import statsmodels.stats.api as sms
 from statsmodels.stats.outliers_influence import variance_inflation_factor
