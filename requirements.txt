@@ -1,7 +1,10 @@
-streamlit
+matplotlib
+numpy
 pandas
 scipy
+streamlit
 plotly
-numpy
 statsmodels
 scikit-learn
+imblearn
+mord
